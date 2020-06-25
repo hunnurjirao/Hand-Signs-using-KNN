@@ -1,2 +1,2 @@
-# Hand-Signs
-Predicting Hand Signs (0,1,2,3,4,5)
+# Hand-Signs using KNN
+Predicting Hand Signs 
